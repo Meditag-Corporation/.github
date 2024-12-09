@@ -1,58 +1,8 @@
 # .github
 About Meditag
 
-# Meditag System Architecture: Hierarchical Software Installations
+Meditag is an innovative digital health ecosystem designed to streamline healthcare and laboratory management while improving patient outcomes. It integrates Electronic Health Records (EHR), Laboratory Information Management Systems (LIMS), and emergency medical identification into a secure, interconnected platform. Meditag provides cloud-based, regional, and local installation options, making it adaptable for various healthcare providers, laboratories, and patients.
 
-MeditagCloudCore
-  |
-  +-- MeditagCloudRegionalNamibia
-  |     |
-  |     +-- Tenant 1
-  |     |     |
-  |     |     +-- Enterprise 1 (EHR)
-  |     |     |     |
-  |     |     |     +-- Node 1 (EHR Facility)
-  |     |     |     +-- Node 2 (EHR Facility)
-  |     |     |
-  |     |     +-- Enterprise 3 (LIMS)
-  |     |           |
-  |     |           +-- Node 3 (LIMS Facility)
-  |     |           +-- Node 4 (LIMS Facility)
-  |     |
-  |     +-- Tenant 2
-  |           |
-  |           +-- Enterprise 2 (LIMS)
-  |           |     |
-  |           |     +-- Node 5 (LIMS Facility)
-  |           |     +-- Node 6 (LIMS Facility)
-  |           |
-  |           +-- Enterprise 4 (EHR)
-  |                 |
-  |                 +-- Node 7 (EHR Facility)
-  |                 +-- Node 8 (EHR Facility)
-  |
-  +-- MeditagCloudRegionalSouthAfrica
-        |
-        +-- Tenant 3
-        |     |
-        |     +-- Enterprise 5 (EHR)
-        |     |     |
-        |     |     +-- Node 9 (EHR Facility)
-        |     |     +-- Node 10 (EHR Facility)
-        |     |
-        |     +-- Enterprise 6 (LIMS)
-        |           |
-        |           +-- Node 11 (LIMS Facility)
-        |           +-- Node 12 (LIMS Facility)
-        |
-        +-- Tenant 4
-              |
-              +-- Enterprise 7 (EHR)
-              |     |
-              |     +-- Node 13 (EHR Facility)
-              |     +-- Node 14 (EHR Facility)
-              |
-              +-- Enterprise 8 (LIMS)
-                    |
-                    +-- Node 15 (LIMS Facility)
-                    +-- Node 16 (LIMS Facility)
+At its core, Meditag emphasizes accessibility, scalability, and real-time data management, empowering healthcare professionals to deliver precise, efficient care. Patients benefit from features like digital EMI (Emergency Medical Information) tags, ensuring critical medical details are accessible in emergencies.
+
+MeditagCloudCore serves as the centralized hub, supporting regional systems, tenants, enterprises, and facility nodes. With deployment options on cPanel, AWS, or Meditag Cloud, the platform caters to diverse needs, enabling seamless integration across healthcare ecosystems. Meditag’s robust infrastructure also ensures compliance with security and data privacy standards, promoting trust and reliability.
