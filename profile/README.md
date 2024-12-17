@@ -9,9 +9,7 @@ Welcome to **Meditag** – your all-in-one digital health solution for streamlin
 
 - **Meditag E-Prescription**: A modern e-prescription platform integrated with pharmacies, delivery services, and insurers.
 - **Meditag Rewards**: Incentivize patients for healthy activities like self-assessments, daily logins, and profile updates.
-- **Meditag Partner Offers**: Partner-driven product promotions for patients.
 - **Meditag Call Centre**: Communicate via WhatsApp, email, and SMS with our support staff.
-- **Meditag Data Vault**: Securely monetize anonymized patient health data.
 
 ---
 
